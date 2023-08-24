@@ -1,5 +1,5 @@
 <div>
-	<header>Header</header>
+	<h2>same layout</h2>
+
 	<slot />
-	<footer>Footer</footer>
 </div>
